@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Poetry virtualenv
+.venv/
+
+# VSCode
+.vscode/
+
+# MyPy / coverage / test
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Alembic
+alembic/versions/*.pyc
+
+
+# for .env file
+.env
