@@ -1,4 +1,3 @@
-
 # Library Management System API (FastAPI + SQLAlchemy + MySQL)
 
 This project is a RESTful API built with **FastAPI**, **SQLAlchemy**, and **MySQL**. Dependency management is handled by **Poetry**.
